@@ -70,7 +70,7 @@ This fusion allows robust risk estimation by incorporating both behavioral and s
 
 
 ## Results
-Model evaluation outputs including confusion matrix, ROC curve, risk heatmaps, and sample predictions are available in the repository **results** folder.
+Model evaluation outputs including confusion matrix, ROC curve, risk heatmaps, and sample predictions. Please refer to the [results folder](./results) to view all performance visualizations and prediction outputs.
 ### Motion Detection Performance
 * Binary Classification: NORMAL vs ABNORMAL
 * Metrics:
